@@ -1,0 +1,2 @@
+GoItCorePython/AllScrachFile/Software/draw.io/*.exe filter=lfs diff=lfs merge=lfs -text
+GoItCorePython/AllScrachFile/Software/draw.io/resources/*.asar filter=lfs diff=lfs merge=lfs -text
